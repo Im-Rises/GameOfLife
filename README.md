@@ -1,3 +1,8 @@
-# Jeu_de_la_vie
-Programme du jeu de la vie fait en C# Windows Forms (.NET Framework).
-Le projet a été fait sous Visual Studio 2019.
+# Conway's Game of Life (Jeu de la vie)
+
+##Description:
+Program in C# WindowsForms of Conway's Game of Life.
+IDE Visual Studio 2019.
+
+##Demo:
+./Images/Demo.gif
