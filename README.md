@@ -1,8 +1,8 @@
 # Conway's Game of Life (Jeu de la vie)
 
-##Description:
+## Description:
 Program in C# WindowsForms of Conway's Game of Life.
 IDE Visual Studio 2019.
 
-##Demo:
+## Demo:
 ./Images/Demo.gif
