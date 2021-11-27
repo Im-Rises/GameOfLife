@@ -6,4 +6,4 @@ IDE Visual Studio 2019.
 
 ## Demo:
 
-![demo](./Images/demo.gif)
+![demo](./Gifs/demo.gif)
