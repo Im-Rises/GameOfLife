@@ -1,4 +1,4 @@
-﻿namespace JeudelaVie
+﻿namespace TP14_JeudelaVie
 {
     partial class Form1
     {

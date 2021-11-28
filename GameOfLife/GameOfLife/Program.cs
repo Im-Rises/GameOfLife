@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace JeudelaVie
+namespace TP14_JeudelaVie
 {
     static class Program
     {

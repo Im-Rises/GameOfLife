@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Perso\\Developpement\\Programmes\\C#\\GameOfLife\\GameOfLife\\GameOfLife\\GameOfLife.csproj": {}
+    "C:\\Users\\Quentin\\source\\repos\\GameOfLife\\GameOfLife\\GameOfLife.csproj": {}
   },
   "projects": {
-    "E:\\Perso\\Developpement\\Programmes\\C#\\GameOfLife\\GameOfLife\\GameOfLife\\GameOfLife.csproj": {
+    "C:\\Users\\Quentin\\source\\repos\\GameOfLife\\GameOfLife\\GameOfLife.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Perso\\Developpement\\Programmes\\C#\\GameOfLife\\GameOfLife\\GameOfLife\\GameOfLife.csproj",
+        "projectUniqueName": "C:\\Users\\Quentin\\source\\repos\\GameOfLife\\GameOfLife\\GameOfLife.csproj",
         "projectName": "GameOfLife",
-        "projectPath": "E:\\Perso\\Developpement\\Programmes\\C#\\GameOfLife\\GameOfLife\\GameOfLife\\GameOfLife.csproj",
+        "projectPath": "C:\\Users\\Quentin\\source\\repos\\GameOfLife\\GameOfLife\\GameOfLife.csproj",
         "packagesPath": "C:\\Users\\Quentin\\.nuget\\packages\\",
-        "outputPath": "E:\\Perso\\Developpement\\Programmes\\C#\\GameOfLife\\GameOfLife\\GameOfLife\\obj\\",
+        "outputPath": "C:\\Users\\Quentin\\source\\repos\\GameOfLife\\GameOfLife\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Quentin\\AppData\\Roaming\\NuGet\\NuGet.Config",

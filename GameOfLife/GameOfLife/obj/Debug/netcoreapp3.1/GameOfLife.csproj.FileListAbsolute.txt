@@ -21,6 +21,7 @@ E:\Perso\Developpement\Programmes\C#\GameOfLife\GameOfLife\GameOfLife\bin\Debug\
 E:\Perso\Developpement\Programmes\C#\GameOfLife\GameOfLife\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.dll
 E:\Perso\Developpement\Programmes\C#\GameOfLife\GameOfLife\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.pdb
 E:\Perso\Developpement\Programmes\C#\GameOfLife\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.csproj.AssemblyReference.cache
+E:\Perso\Developpement\Programmes\C#\GameOfLife\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\TP14_JeudelaVie.Form1.resources
 E:\Perso\Developpement\Programmes\C#\GameOfLife\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.csproj.GenerateResource.cache
 E:\Perso\Developpement\Programmes\C#\GameOfLife\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.GeneratedMSBuildEditorConfig.editorconfig
 E:\Perso\Developpement\Programmes\C#\GameOfLife\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.AssemblyInfoInputs.cache
@@ -29,4 +30,3 @@ E:\Perso\Developpement\Programmes\C#\GameOfLife\GameOfLife\GameOfLife\obj\Debug\
 E:\Perso\Developpement\Programmes\C#\GameOfLife\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.dll
 E:\Perso\Developpement\Programmes\C#\GameOfLife\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.pdb
 E:\Perso\Developpement\Programmes\C#\GameOfLife\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.genruntimeconfig.cache
-E:\Perso\Developpement\Programmes\C#\GameOfLife\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.1\JeudelaVie.Form1.resources

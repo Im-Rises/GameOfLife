@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace JeudelaVie
+namespace TP14_JeudelaVie
 {
     public partial class Form1 : Form
     {
