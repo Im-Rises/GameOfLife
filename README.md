@@ -1,4 +1,4 @@
-# Conway's Game of Life (Jeu de la vie)
+# Conway's Game of Life
 
 ## Description
 Program in C# Windows Forms of Conway's Game of Life for Windows.  
