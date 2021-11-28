@@ -13,9 +13,9 @@ IDE Visual Studio 2019.
     <td>Kok's galaxy</td>
   </tr>
   <tr>
-    <td><img src="./Images/Gifs/demo.gif" width=640 ></td>
-    <td><img src="./Images/Gifs/demo2.gif" width=640 ></td>
-    <td><img src="./Images/Gifs/demo3.gif" width=640 ></td>
+    <td><img src="./README_files/Images/Gifs/demo.gif" width=640 ></td>
+    <td><img src="./README_files/Images/Gifs/demo2.gif" width=640 ></td>
+    <td><img src="./README_files/Images/Gifs/demo3.gif" width=640 ></td>
   </tr>
   </tr>
 </table>
@@ -24,7 +24,7 @@ IDE Visual Studio 2019.
 To launch the app, double-click on the GameOfLie.exe file.  
   
 In the tab menu, you can reset the app, start the simulation, stop the simulation and restart the app.  
-![usage](./Images/PNGs/StatesTab.png)  
+![usage](./README_files/Images/PNGs/StatesTab.png)  
   
 You can also change the speed mode.  
-![usage2](./Images/PNGs/speedModes.png)  
+![usage2](./README_files/Images/PNGs/speedModes.png)  
