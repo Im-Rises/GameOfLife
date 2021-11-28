@@ -6,6 +6,7 @@ IDE Visual Studio 2019.
 
 ## Demo
 
-![demo](./Gifs/demo.gif)
+![demo](./Images/Gifs/demo.gif)
+![demo2](./Images/Gifs/demo2.gif)
 
 ## Usage
