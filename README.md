@@ -2,7 +2,7 @@
 
 ## Description
 Program in C# Windows Forms of Conway's Game of Life for Windows.  
-IDE Visual Studio 2019.
+Project made using the IDE Visual Studio 2019.
 
 ## Demo
 
