@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Quentin\\source\\repos\\GameOfLife\\GameOfLife\\GameOfLife.csproj",
+      "projectUniqueName": "E:\\Perso\\Developpement\\Programmes\\C#\\GameOfLife\\GameOfLife\\GameOfLife\\GameOfLife.csproj",
       "projectName": "GameOfLife",
-      "projectPath": "C:\\Users\\Quentin\\source\\repos\\GameOfLife\\GameOfLife\\GameOfLife.csproj",
+      "projectPath": "E:\\Perso\\Developpement\\Programmes\\C#\\GameOfLife\\GameOfLife\\GameOfLife\\GameOfLife.csproj",
       "packagesPath": "C:\\Users\\Quentin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Quentin\\source\\repos\\GameOfLife\\GameOfLife\\obj\\",
+      "outputPath": "E:\\Perso\\Developpement\\Programmes\\C#\\GameOfLife\\GameOfLife\\GameOfLife\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Quentin\\AppData\\Roaming\\NuGet\\NuGet.Config",
