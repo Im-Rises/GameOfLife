@@ -21,3 +21,8 @@ IDE Visual Studio 2019.
 </table>
 
 ## Usage
+To launch the app, double-click on the GameOfLie.exe file.  
+In the tab menu, you can reset the app, start the simulation, stop the simulation and restart the app.  
+![usage](./Images/PNGs/StatesTab.png)
+You can also change the speed mode.  
+![usage2](./Images/PNGs/speedModes.png)
