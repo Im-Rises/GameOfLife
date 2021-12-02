@@ -28,3 +28,4 @@ In the tab menu, you can reset the app, start the simulation, stop the simulatio
   
 You can also change the speed mode.  
 ![usage2](./README_files/Images/PNGs/speedModes.png)  
+
