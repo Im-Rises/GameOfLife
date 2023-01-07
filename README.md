@@ -7,8 +7,8 @@
 
 ## Description
 
-Program in C# .NET core Windows Forms of Conway's Game of Life for Windows.  
-Project made using the IDE Visual Studio 2019.
+Conway's Game of Life app for Windows.  
+Made in C# .NET core 7.0 using Windows Forms.
 
 ## Demo
 
