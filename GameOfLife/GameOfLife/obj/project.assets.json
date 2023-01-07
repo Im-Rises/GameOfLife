@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Quentin\\.nuget\\packages\\": {}
+    "C:\\Users\\Quent\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Perso\\Developpement\\Programmes\\C#\\GameOfLife\\GameOfLife\\GameOfLife\\GameOfLife.csproj",
+      "projectUniqueName": "E:\\Perso\\Developpement\\Programmes\\Programmes\\C#\\GameOfLife\\GameOfLife\\GameOfLife\\GameOfLife.csproj",
       "projectName": "GameOfLife",
-      "projectPath": "E:\\Perso\\Developpement\\Programmes\\C#\\GameOfLife\\GameOfLife\\GameOfLife\\GameOfLife.csproj",
-      "packagesPath": "C:\\Users\\Quentin\\.nuget\\packages\\",
-      "outputPath": "E:\\Perso\\Developpement\\Programmes\\C#\\GameOfLife\\GameOfLife\\GameOfLife\\obj\\",
+      "projectPath": "E:\\Perso\\Developpement\\Programmes\\Programmes\\C#\\GameOfLife\\GameOfLife\\GameOfLife\\GameOfLife.csproj",
+      "packagesPath": "C:\\Users\\Quent\\.nuget\\packages\\",
+      "outputPath": "E:\\Perso\\Developpement\\Programmes\\Programmes\\C#\\GameOfLife\\GameOfLife\\GameOfLife\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Quentin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Quent\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,10 +51,29 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.32, 3.1.32]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -63,7 +82,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
